@@ -54,7 +54,7 @@ const DiscordSection: React.FC = () => {
             <div className="relative rounded-lg overflow-hidden border-4 border-gray-800 shadow-2xl transform lg:-rotate-2 hover:rotate-0 transition-transform duration-500">
               <div className="aspect-video bg-gradient-to-br from-indigo-900/40 to-indigo-600/20 backdrop-blur-sm flex items-center justify-center">
                 <img
-                  src="src\img\discussion.png"
+                  src="img\discussion.png"
                   alt="Gaming community"
                   className="w-full h-full object-cover mix-blend-overlay opacity-80"
                 />
