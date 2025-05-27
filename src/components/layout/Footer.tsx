@@ -1,6 +1,6 @@
 import React from 'react'
 import Container from '../ui/Container'
-import { Github, Heart } from 'lucide-react'
+import { Github } from 'lucide-react'
 
 const Footer: React.FC = () => {
   const currentYear = new Date().getFullYear()
@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center mb-4 md:mb-0">
             <img
-              src="/src/img/boppa_icon.png"
+              src="/img/boppa_icon.png"
               alt="Boppa Logo"
               style={{ width: '43px', height: '35px' }}
               className="mr-2"

@@ -36,7 +36,7 @@ const Header: React.FC = () => {
           {/* Logo */}
           <div className="flex items-center">
             <img
-              src="/src/img/boppa_icon.png"
+              src="/img/boppa_icon.png"
               alt="Boppa Logo"
               style={{ width: '51px', height: '42px' }}
               className="mr-2"
