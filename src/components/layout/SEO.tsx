@@ -8,7 +8,7 @@ interface SEOProps {
 }
 
 const SEO: React.FC<SEOProps> = ({
-  title = 'BOPPA',
+  title = 'The BOPPA Network',
   description = 'Join the BOPPA community.',
   canonicalUrl = 'https://boppa.net',
 }) => {
