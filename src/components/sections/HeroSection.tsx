@@ -1,6 +1,5 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { ArrowDown } from 'lucide-react'
 import Container from '../ui/Container'
 import Button from '../ui/Button'
 import GlowEffect from '../ui/GlowEffect'

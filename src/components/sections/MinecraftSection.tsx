@@ -70,7 +70,7 @@ const MinecraftSection: React.FC = () => {
               <div className="flex items-start">
                 <AlertTriangle className="text-amber-500 mr-2 mt-1 flex-shrink-0" size={20} />
                 <div>
-                  <h4 className="text-amber-500 font-medium mb-1 flex items-center font-extrabold">
+                  <h4 className="text-amber-500 font-medium mb-1 flex items-center">
                     Important Notice
                   </h4>
                   <p className="text-amber-100/80 text-sm">
