@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
 
           <div className="mt-4 md:mt-0 flex space-x-4">
             <a
-              href="https://github.com/joobert/BOPPAnet"
+              href="https://github.com/BOPPALabs/BOPPAnet"
               className="text-gray-400 hover:text-white transition-colors"
               aria-label="GitHub"
             >
